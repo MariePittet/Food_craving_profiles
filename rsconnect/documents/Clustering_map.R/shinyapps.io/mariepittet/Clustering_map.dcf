@@ -1,0 +1,12 @@
+name: Clustering_map
+title: Clustering_map
+username: mariepittet
+account: mariepittet
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16067024
+bundleId: 11179439
+url: https://bewe.shinyapps.io/Clustering_map/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
